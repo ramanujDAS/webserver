@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/simple-java-webserver.git
+git clone https://github.com/yourusername/webserver.git
 cd simple-java-webserver
 Compile the server:
 
